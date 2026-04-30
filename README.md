@@ -70,7 +70,7 @@ Para reduzir os riscos identificados, são recomendadas as seguintes práticas:
 ---
 
 ## 📸 Evidências
-*(I)*
+*(Fotos coloquei na raiz pois não consegui por na pasta.)*
 
 ---
 
