@@ -70,7 +70,21 @@ Para reduzir os riscos identificados, são recomendadas as seguintes práticas:
 ---
 
 ## 📸 Evidências
-*(Fotos coloquei na raiz pois não consegui por na pasta.)*
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/b1d3ec54-2de4-4e68-a36f-630fa07c2704">
+    <img src="https://github.com/user-attachments/assets/b1d3ec54-2de4-4e68-a36f-630fa07c2704" width="300" alt="Screenshot 1">
+  </a>
+  <a href="https://github.com/user-attachments/assets/487612b4-198a-4581-baca-026b78123d5a">
+    <img src="https://github.com/user-attachments/assets/487612b4-198a-4581-baca-026b78123d5a" width="300" alt="Screenshot 2">
+  </a>
+  <br><br>
+  <a href="https://github.com/user-attachments/assets/324039f1-1a83-42aa-9aa4-3d9c3047cf6b">
+    <img src="https://github.com/user-attachments/assets/324039f1-1a83-42aa-9aa4-3d9c3047cf6b" width="300" alt="Screenshot 3">
+  </a>
+  <a href="https://github.com/user-attachments/assets/2e6c373b-40a1-43d8-aa25-cf7151d4205a">
+    <img src="https://github.com/user-attachments/assets/2e6c373b-40a1-43d8-aa25-cf7151d4205a" width="300" alt="Screenshot 4">
+  </a>
+</p>
 
 ---
 
