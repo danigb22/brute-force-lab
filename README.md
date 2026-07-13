@@ -55,7 +55,7 @@ Com este projeto, foi possível desenvolver diversos conhecimentos práticos, co
 - Mesmo com os avisos, foi possível identificar credenciais válidas, o que demonstrou a importância de compreender corretamente o funcionamento e os parâmetros de cada ferramenta.
 
 - Esse erro também evidenciou diferenças entre ferramentas como Medusa e outras voltadas para formulários web.
-
+<img width="1359" height="718" alt="Image" src="https://raw.githubusercontent.com/danigb22/brute-force-lab/refs/heads/main/medusa%20erro.png" />
 ---
 ## 🛡️ Medidas de Mitigação
 Para reduzir os riscos identificados, são recomendadas as seguintes práticas:
